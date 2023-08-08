@@ -67,8 +67,6 @@ Se realiza un Análisis exploratorio de datos: *( Exploratory Data Analysis-EDA 
 
 - -Se intentó una Regresión lineal entre “precio” y “año”, pero no había relación alguna, por tanto no hay pendiente ni intercepto. Tampoco se obtuvo **RMSE**.
 
-## Video
-Para consultar sobre los pasos del proceso y una explicación más profunda es posible acceder al siguiente enlace
 
 
 
